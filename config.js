@@ -11,11 +11,11 @@ function convertToBool(text, fault = 'true') {
 return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "prince_md-iIdnRApT#0u5WhUuWpBtDtGP7YfJsWCdx0XkvXLG6AN9kGYoHvEw",
+SESSION_ID: process.env.SESSION_ID || "prince_md-ooAFlJIS#uMEmhD6_r1PYfyVwqURVd1TypXTj6uuSVxz6WcOxmzI",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "private",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "237682698587",
-OWNER_NAME: process.env.OWNER_NAME || "PRINCE",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "94710695082",
+OWNER_NAME: process.env.OWNER_NAME || "Anuga",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
@@ -35,7 +35,7 @@ CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "fase",
-BOT_NAME: process.env.BOT_NAME || "𝗣𝗥𝗜𝗡𝗖𝗘 𝗠𝗗𝗫",
+BOT_NAME: process.env.BOT_NAME || "Anuga MD",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 
