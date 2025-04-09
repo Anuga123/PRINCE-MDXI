@@ -1,10 +1,10 @@
 
  {
   "MODE": "private",
-  "FAKE_TYPING": "false",
-  "ALWAYS_ONLINE": "false",
-  "FAKE_RECORDING": "false",
-  "AUTO_READ_STATUS": "false",
+  "FAKE_TYPING": "true",
+  "ALWAYS_ONLINE": "true",
+  "FAKE_RECORDING": "true",
+  "AUTO_READ_STATUS": "true",
   "PREFIX": ".",
   "ANTI_LINK": "true"
 }
